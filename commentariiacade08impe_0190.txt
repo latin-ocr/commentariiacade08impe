@@ -1,0 +1,41 @@
+162 CVRPIAR‘VM' MAXIMI MINIMIVE
+
+ximum minimumue effe debet, inueniri queat valor P.
+Ad huiusmodi autem regulam inuenicndam exprimat
+sde eam quantitatem, quae in curua quaesita maxi-
+ma effe debeat vel minima ‚ sitque Q quantitas vtcunque
+composita ex x,y‚ ets, horumque differentialibus dx,
+dy, et ds. Seu posito dyzpdx‚ vt sit ds:d.rV(1
+-ι- pp), fit quantitas vtcunque composita ex x ,y ., s et p;
+ita vt eius differentiale huiusmodi sit habiturum formam
+d Q: Lds—1s-Mdy-—i— Ndx—Js-Vdp. Quae formula
+vtique multo latius patet, quam omnes 16 priores for-
+mulae, quas in praecedente dissertatione exhibui.
+
+ξ. ς. Considerentur abetbc tanquam curuae inue-
+niendae elementa genuina, dum altera αξ et ξε tan-
+tum ad conceptum maximi minimiue formandum sint
+in subfidium vocata„ Cum igitur sde debeat effe
+maximum vel minimum in curua oa, ea expreffio pro
+
+elemento ab dabit de et elemento bc vero ῥόας,
+
+adeo vt elemento ab respondeat expreffio de et ele-
+Ι
+
+mento bc haec de, vtrique autem elemento coniun»
+
+<stim ab-4—-bc ista formula (Q÷(12)dx. Iam quae-
+rantur expreffiones‚ quae elementis affumtitiis αξ et ξε
+
+Ι
+respondeant·⁷ hae enim coniunctae et a (Q—{- Q)dx sub-
+trac‘tae dabunt refiduum ipsi Rhe aequale et propterea
+determinabunt valorem ipsius P, ex quo aequatio pro
+curua obtinebitur. Expreffio autem de‚ quae respon-
+det elemento ab transibit in expressionem respondentem
+
+elemento ae,'s1 loco p seu «ΓΜ Mscribatur p÷}{ seu Ξ-ζὶ
+
+quanti·
+

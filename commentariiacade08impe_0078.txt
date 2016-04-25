@@ -1,0 +1,58 @@
+60 METHODVS COMPVTANDI
+
+. Ex hac formula statim
+
+ 
+
+ 
+
+tang. ZE tang. OE
+( fi11.÷SPT ⁸- tangtSTT
+apparet sub polo aequationem hanc fieri infinite magnam:
+fit enim ZE arcus 90⁰, cuius tangens est infinite ma-
+gna. Sub ipso aequatore autem euanescit tang. ZE,
+ideoque aequatio meridiei fit negatiua3 seu addi debet,
+cum alias subtrahi deberet, nisi OE fiat negatiuum,
+{eu sol versus Austrum declinet. Formula tandem in-
+uenta ad declinationem solis borealem est accommodata;
+
+at fi fuerit australis ob OE negatiuiim, erit aequatio
+ang SPT.dt tang-ZE tang OE
+
+ 
+
+quae exigua discrepantia calculum admodum contrahit.
+
+§— 17. Ipse autem calculus ex hac formula sequenti
+modo commodissime instituitur. Multiplicetur horaruirr
+inter obseruationes elapsarum numerus per 15 , quo
+habeatur numerus graduum anguli SPT, huiusque nu-
+meri sumatur logarithmus. Deinde quaeratur modo post
+describendo variatio declinationis diurna in minutis se-
+cundis, horumque numeri per 4 multiplicati logarith-
+mus addatur ad priorem logarithmum et a summa finb-
+
+trahatur logarithmus numeri 720·⁷ quo fatto habebitur
+
+ang.SPT.clt
+
+,μω-ἢ. Deinde a logarithmo
+
+tangentis eleuationis poli subtrahatur logarithmus finus
+dimidii anguli SPT et ex tabula logarithmorum nu—
+
+merorum naturalium quaeratur numerus residuo respon-
+tang. ZE
+
+sin. 5517?
+
+ 
+
+logarithmus ipsius
+
+ 
+
+dens, qui erit t: Simili modo a logarith-
+
+mO
+

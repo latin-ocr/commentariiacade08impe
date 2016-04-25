@@ -1,0 +1,40 @@
+AD NVMEROS PRIMOS SPECTANTIV M . 145
+
+etc. pet numerum primum pdiuidi poterunt. Demon-
+strata igitur est veritas theorematis generalis pro omni-
+
+bus casibus, quibus α est quaeuis binarii potestas, et p
+quicunque numerus primus praeter binarium.
+
+ς. 5. Demonstrato nunc hoc theoremate eius ope
+sequens quoque demonstrabimus.
+
+Theorema.
+
+Denotante p numerum primum quemcunque praeter 3,
+per illum semper haec fhrmula 31'-¹ — 1 diuidi poterit.
+
+DemonstratIO.
+
+Si 31’-¹—1 per numerum primum p excepto 3 diuidi
+potest, tum 31⁵—3 per p diuidi poterit, quoties pfuerit
+numerus primus quicunque, et viciffim. Est vero 31²:
+(1-4-0)P:1-†-.1'· 2-1-123-)4-}-p(²'- >na—>3 -..--
+-1-3' 2P-‘¹ —1-21', cuius seriei singuli termini praeter pri-
+mum ct Vltimum per p diuidi poterunt, si quidem p
+
+fuerit numerus primus. Per p igitur diuidi potest ista
+formula 31³—21'—1 ‚ quae aequalis est huic 312—3-21'
+
+—3-2, At 21²—2 semper per p numerum primum di-
+uidi potest3 ergo etiam 3P—3. Quare 31²-¹-1 sem-
+per per p diuidi potest, quoties p fuerit numerus pri-
+mus excepto 3. Q. E. Ι..
+
+§. 6. Eodem modo vltetius progredi liceret ab
+hoc ipfius ᾳ valore ad sequentem vnit-ate maiorem.
+Sed quo demonstrationem generalis theorematis magis
+concinnam magisque genuinam efficiam, sequens prae-
+mitto
+Ίόηι. V ΙΙΙ. T Theo-
+

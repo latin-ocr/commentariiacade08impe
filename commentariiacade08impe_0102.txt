@@ -1,0 +1,59 @@
+82 DE CONSTRVCTIONE AEQJMTIONVM.
+
+§. 40. Quoties ergo aequatio inter t et u est al-
+
+gebraica fimulque ita comparata, VtsvffrJ-uu‘) denotet ar·
+
+cum circuli, cuius tangens algebraice potest exhiberi3 to·-
+ties curua a corpore descripta erit algebraica‚ eiusque
+aequatio inter coordinatus orthogonales algebraica pet
+inuentas formulas inuenitur.
+
+ 
+
+ξ. 41. Si detur relatio inter radium osculi ΜΟ
+et partem eius M N seu normalem aequatione quacunque,
+aequatio inter coordinatus ΑΡ, ΡΜ hac ratione pote-
+rit inueniri, ex qua statim appareat quibus cafibus curua
+fiat algebraica. Sit nempe MN:t et MOzzt da·-
+taque fit aequatio quaecunque inter t et u3 PonaturAP
+tx, PM :y atque dyzpdx. Erit ergo elementum
+curu-„xe :de(1-1-p²) et d‘dyzdpdx pofito dx con-
+stante. Ex his igitur erit MNztzyV(1-—}-pp) et
+
+3
+
+ 
+
+ 
+
+Mo z u z -ὤτῖ-Σ-Ϊέω . Ex quarum aequatIOnum po-
+neriore fit dx: (JZ—ZIss-{fi prior differentiam dat dy
+dt÷ppdt—ptdp
+
+ 
+
+ 
+
+ 
+
+:pdxz . His ergo aequationibus
+
+eoniunstis habegtssr-IJZZI p ’.Ξ p t dp —- dt —pp dt.
+
+ξ, 42. Aequatio haec inuenta, quia u per t dari
+
+ponitur, admittit variabilium separationem, abit enim
+
+in hanc ,ᾞξρῑῖὲῖ, cuius integralis est [mm-pp)
+
+:sr‘ffu- Sit sffizlq erit V(1-4-pp):q <tt-7:2-
+Hinc ergo P01'1'0 est “17:ququ:pdx:d.rV(qq-1);
+ideoque
+
+ 
+
+ 
+
+ 
+

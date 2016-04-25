@@ -1,0 +1,34 @@
+DE CONSTRVCTIONE AEQVATIONVM. ‘73-
+
+tamen non sequitur curuam else algebraicam, sed fiiepe
+maxime crit transcendens. Quamobrem tum ad con-
+structionem tum ad coguitionem curuae huiusmodi ae-
+quatio in aliam est transmutanda, quae fit inter lineas,
+quarum politio a curua non pendeat.
+
+§. 17. Optimum igitur ad cognoscendam et con*
+struendam curuam remedium erit, aequationem, fi sue-
+rit inter lineas, quarum positio ab ipsa curua pendeat,
+transmutare in aequationem consuetam inter abscissam
+et applicatam. In hoc autem negotio summa cura est
+adhibenda, ne in prolixiffimos calculos et resolutu dif-
+ficillimas aequationes incidamus. Facillime. enim vide-
+tur illa transmutatio in aequationem inter absciffim et
+applicatam, sed hoc modo plerumque in inextricabiles
+tricas delabimur3 Id quod vnico exemplo ostendere suf-
+ficiet.
+
+5. 18. Exprimatur curuae vAM natura aequatione Figura 3·
+inter normalem in curnam MN et portionem axis AN τ,
+quarum MN vocetur u et AN, t; fitque aequatio cur·-
+uae naturam exprimens haec simplex admodum uetat.
+Si nunc ponatur absciffii AP:x et applicata PM τ.- y,
+atque curuae elementum quod est V(dx²—1—dy²):ds‚
+erit MNzu—-zffi—dxff et ANztzx-kyffssy. Quare fi
+hi valores in aequatione substituantur, habebitur quidem
+haec aequatio y²ds²zaxdx²÷aydxdy‚ inter xety‚
+ex qua neque ¹constructio curuae apparet, neque etiam
+an sit algebraica an secus.
+
+Tom. VIII. Κ 5. 19.
+

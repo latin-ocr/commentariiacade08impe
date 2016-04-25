@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariiacade08impe_0012.png"; bbox 0 0 1941 2674; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 801 101 1568 241">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 801 101 1568 241">
+     <span class='ocr_line' id='line_1_1' title="bbox 905 101 1457 147; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 905 101 1457 147; x_wconf 75' lang='lat' dir='ltr'>osssERVATmNEs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 801 177 1568 241; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 801 177 1568 241; x_wconf 76' lang='lat' dir='ltr'>ASTRONOMicAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 730 274 1690 404">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 730 274 1690 404">
+     <span class='ocr_line' id='line_1_3' title="bbox 730 274 1690 404; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 730 274 1647 404; x_wconf 44' lang='lat' dir='ltr'><strong>METEOREEOGICAE.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1688 361 1690 363; x_wconf 70' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 538 481 1834 754">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 538 481 1834 754">
+     <span class='ocr_line' id='line_1_4' title="bbox 538 481 1828 534; baseline -0.001 -6"><span class='ocrx_word' id='word_1_5' title='bbox 538 489 649 533; x_wconf 74' lang='lat' dir='ltr'>Ioan.</span> <span class='ocrx_word' id='word_1_6' title='bbox 669 485 793 532; x_wconf 78' lang='lat' dir='ltr'>Poleni</span> <span class='ocrx_word' id='word_1_7' title='bbox 820 485 866 526; x_wconf 84' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_8' title='bbox 896 483 1165 526; x_wconf 80' lang='lat' dir='ltr'>nobilissimum</span> <span class='ocrx_word' id='word_1_9' title='bbox 1185 484 1321 526; x_wconf 86' lang='lat' dir='ltr'>Virum</span> <span class='ocrx_word' id='word_1_10' title='bbox 1348 481 1548 527; x_wconf 79' lang='lat' dir='ltr'>Comitem</span> <span class='ocrx_word' id='word_1_11' title='bbox 1566 485 1828 534; x_wconf 75' lang='lat' dir='ltr'>Alexandrum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 656 555 1834 612; baseline 0.002 -15"><span class='ocrx_word' id='word_1_12' title='bbox 656 559 705 600; x_wconf 88' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_13' title='bbox 745 557 939 611; x_wconf 83' lang='lat' dir='ltr'>Pompeiis</span> <span class='ocrx_word' id='word_1_14' title='bbox 977 555 1176 596; x_wconf 79' lang='lat' dir='ltr'>Patricium</span> <span class='ocrx_word' id='word_1_15' title='bbox 1212 555 1470 598; x_wconf 63' lang='lat' dir='ltr'>Veronenstem</span> <span class='ocrx_word' id='word_1_16' title='bbox 1509 557 1679 612; x_wconf 86' lang='lat' dir='ltr'>Epistola</span> <span class='ocrx_word' id='word_1_17' title='bbox 1700 588 1711 606; x_wconf 93' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_18' title='bbox 1762 572 1834 612; x_wconf 81' lang='lat' dir='ltr'>qua</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 656 625 1832 672; baseline 0.002 -2"><span class='ocrx_word' id='word_1_19' title='bbox 656 628 863 671; x_wconf 74' lang='lat' dir='ltr'>nonnullae</span> <span class='ocrx_word' id='word_1_20' title='bbox 888 625 1172 669; x_wconf 82' lang='lat' dir='ltr'>Obseruationes</span> <span class='ocrx_word' id='word_1_21' title='bbox 1195 626 1489 669; x_wconf 83' lang='lat' dir='ltr'>Astronomicae</span> <span class='ocrx_word' id='word_1_22' title='bbox 1523 638 1562 670; x_wconf 92' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_23' title='bbox 1592 628 1832 672; x_wconf 74' lang='lat' dir='ltr'>meteorolo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 658 698 1255 754; baseline 0 -14"><span class='ocrx_word' id='word_1_24' title='bbox 658 701 763 754; x_wconf 85' lang='lat' dir='ltr'>gicae</span> <span class='ocrx_word' id='word_1_25' title='bbox 795 698 1041 740; x_wconf 84' lang='lat' dir='ltr'>continentur.</span> <span class='ocrx_word' id='word_1_26' title='bbox 1077 711 1118 753; x_wconf 87' lang='lat' dir='ltr'>p.</span> <span class='ocrx_word' id='word_1_27' title='bbox 1148 712 1203 750; x_wconf 80' lang='lat'>43</span> <span class='ocrx_word' id='word_1_28' title='bbox 1213 712 1255 750; x_wconf 83' lang='lat'>9.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 542 785 1834 985">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 542 785 1834 985">
+     <span class='ocr_line' id='line_1_8' title="bbox 542 785 1834 841; baseline -0.004 -9"><span class='ocrx_word' id='word_1_29' title='bbox 542 790 727 835; x_wconf 82' lang='lat' dir='ltr'>Eiusdem</span> <span class='ocrx_word' id='word_1_30' title='bbox 760 786 794 829; x_wconf 91' lang='grc' dir='ltr'>Ι.</span> <span class='ocrx_word' id='word_1_31' title='bbox 828 787 1049 835; x_wconf 82' lang='lat' dir='ltr'>Obseruatio</span> <span class='ocrx_word' id='word_1_32' title='bbox 1078 787 1247 829; x_wconf 82' lang='lat' dir='ltr'>Aurorae</span> <span class='ocrx_word' id='word_1_33' title='bbox 1278 785 1466 841; x_wconf 78' lang='lat' dir='ltr'>Borealis,</span> <span class='ocrx_word' id='word_1_34' title='bbox 1506 788 1601 833; x_wconf 72' lang='lat' dir='ltr'>visae</span> <span class='ocrx_word' id='word_1_35' title='bbox 1632 789 1744 831; x_wconf 64' lang='lat' dir='ltr'>nocste</span> <span class='ocrx_word' id='word_1_36' title='bbox 1775 793 1834 839; x_wconf 70' lang='lat' dir='ltr'>in-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 657 858 1829 925; baseline -0.001 -23"><span class='ocrx_word' id='word_1_37' title='bbox 657 862 829 915; x_wconf 84' lang='lat' dir='ltr'>sequente</span> <span class='ocrx_word' id='word_1_38' title='bbox 858 860 963 901; x_wconf 85' lang='lat' dir='ltr'>diem</span> <span class='ocrx_word' id='word_1_39' title='bbox 1000 872 1073 911; x_wconf 80' lang='lat'>29.</span> <span class='ocrx_word' id='word_1_40' title='bbox 1108 858 1239 910; x_wconf 61' lang='lat' dir='ltr'>Martii</span> <span class='ocrx_word' id='word_1_41' title='bbox 1275 871 1409 911; x_wconf 78' lang='lat'><strong>1739.</strong></span> <span class='ocrx_word' id='word_1_42' title='bbox 1447 859 1570 900; x_wconf 79' lang='lat' dir='ltr'>habita</span> <span class='ocrx_word' id='word_1_43' title='bbox 1601 859 1756 902; x_wconf 82' lang='lat' dir='ltr'>Patauii.</span> <span class='ocrx_word' id='word_1_44' title='bbox 1788 876 1829 925; x_wconf 73' lang='lat' dir='ltr'>p.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 662 946 771 985; baseline 0 0"><span class='ocrx_word' id='word_1_45' title='bbox 662 946 771 985; x_wconf 81' lang='lat'>440·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 545 1018 1835 1216">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 545 1018 1835 1216">
+     <span class='ocr_line' id='line_1_11' title="bbox 545 1018 1835 1073; baseline -0.006 -5"><span class='ocrx_word' id='word_1_46' title='bbox 545 1021 725 1068; x_wconf 79' lang='lat' dir='ltr'>Eiusdem</span> <span class='ocrx_word' id='word_1_47' title='bbox 758 1018 814 1063; x_wconf 88' lang='lat'>11.</span> <span class='ocrx_word' id='word_1_48' title='bbox 834 1019 1053 1062; x_wconf 82' lang='lat' dir='ltr'>obseruatio</span> <span class='ocrx_word' id='word_1_49' title='bbox 1071 1020 1230 1073; x_wconf 85' lang='lat' dir='ltr'>Eclipsis</span> <span class='ocrx_word' id='word_1_50' title='bbox 1248 1019 1368 1069; x_wconf 87' lang='lat' dir='ltr'>Solis,</span> <span class='ocrx_word' id='word_1_51' title='bbox 1394 1021 1504 1071; x_wconf 78' lang='lat' dir='ltr'>(siue,</span> <span class='ocrx_word' id='word_1_52' title='bbox 1525 1032 1569 1062; x_wconf 89' lang='lat' dir='ltr'>vt</span> <span class='ocrx_word' id='word_1_53' title='bbox 1587 1022 1754 1063; x_wconf 86' lang='lat' dir='ltr'>nonnulli</span> <span class='ocrx_word' id='word_1_54' title='bbox 1772 1023 1835 1064; x_wconf 87' lang='grc'>10-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 660 1091 1831 1146; baseline 0.002 -13"><span class='ocrx_word' id='word_1_55' title='bbox 660 1093 725 1146; x_wconf 90' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_56' title='bbox 752 1101 904 1142; x_wconf 85' lang='lat' dir='ltr'>amant,</span> <span class='ocrx_word' id='word_1_57' title='bbox 931 1091 1089 1145; x_wconf 84' lang='lat' dir='ltr'>Eclipfis</span> <span class='ocrx_word' id='word_1_58' title='bbox 1114 1091 1265 1141; x_wconf 86' lang='lat' dir='ltr'>telluris)</span> <span class='ocrx_word' id='word_1_59' title='bbox 1294 1104 1386 1145; x_wconf 87' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_60' title='bbox 1412 1092 1565 1146; x_wconf 73' lang='lat' dir='ltr'>contIgit</span> <span class='ocrx_word' id='word_1_61' title='bbox 1584 1105 1626 1143; x_wconf 86' lang='lat'>4.</span> <span class='ocrx_word' id='word_1_62' title='bbox 1644 1091 1831 1139; x_wconf 83' lang='lat' dir='ltr'>Ka1.·Ian.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 669 1160 1348 1216; baseline -0.003 -12"><span class='ocrx_word' id='word_1_63' title='bbox 669 1173 803 1214; x_wconf 83' lang='lat'>1740.</span> <span class='ocrx_word' id='word_1_64' title='bbox 829 1160 956 1204; x_wconf 85' lang='lat' dir='ltr'>habita</span> <span class='ocrx_word' id='word_1_65' title='bbox 981 1161 1135 1204; x_wconf 82' lang='lat' dir='ltr'>Patauii.</span> <span class='ocrx_word' id='word_1_66' title='bbox 1170 1175 1211 1216; x_wconf 89' lang='lat' dir='ltr'>p.</span> <span class='ocrx_word' id='word_1_67' title='bbox 1241 1174 1348 1214; x_wconf 81' lang='lat'>442.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 543 1248 1834 1535">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 545 1248 1834 1447">
+     <span class='ocr_line' id='line_1_14' title="bbox 545 1248 1834 1306; baseline -0.004 -9"><span class='ocrx_word' id='word_1_68' title='bbox 545 1250 724 1297; x_wconf 82' lang='lat' dir='ltr'>Eiusdem</span> <span class='ocrx_word' id='word_1_69' title='bbox 763 1249 841 1293; x_wconf 94' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_70' title='bbox 873 1249 1093 1292; x_wconf 70' lang='lat' dir='ltr'>Obseruatio</span> <span class='ocrx_word' id='word_1_71' title='bbox 1122 1249 1278 1290; x_wconf 84' lang='lat' dir='ltr'>Lunaris</span> <span class='ocrx_word' id='word_1_72' title='bbox 1311 1248 1471 1304; x_wconf 86' lang='lat' dir='ltr'>Eclipfis</span> <span class='ocrx_word' id='word_1_73' title='bbox 1491 1279 1502 1300; x_wconf 95' lang='lat'>,</span> <span class='ocrx_word' id='word_1_74' title='bbox 1551 1261 1644 1303; x_wconf 86' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_75' title='bbox 1675 1251 1834 1306; x_wconf 82' lang='lat' dir='ltr'>contigit</span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 659 1319 1827 1377; baseline 0.001 -13"><span class='ocrx_word' id='word_1_76' title='bbox 659 1323 775 1365; x_wconf 67' lang='lat' dir='ltr'>noste</span> <span class='ocrx_word' id='word_1_77' title='bbox 806 1321 1016 1377; x_wconf 83' lang='lat' dir='ltr'>insequente</span> <span class='ocrx_word' id='word_1_78' title='bbox 1042 1319 1129 1363; x_wconf 86' lang='lat' dir='ltr'>Idus</span> <span class='ocrx_word' id='word_1_79' title='bbox 1151 1320 1312 1362; x_wconf 83' lang='lat' dir='ltr'>Ianuarii</span> <span class='ocrx_word' id='word_1_80' title='bbox 1345 1332 1481 1372; x_wconf 83' lang='lat'>1740.</span> <span class='ocrx_word' id='word_1_81' title='bbox 1515 1320 1640 1364; x_wconf 86' lang='lat' dir='ltr'>habita</span> <span class='ocrx_word' id='word_1_82' title='bbox 1674 1322 1827 1368; x_wconf 80' lang='lat' dir='ltr'>Patauii.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 662 1405 850 1447; baseline -0.016 0"><span class='ocrx_word' id='word_1_83' title='bbox 662 1406 705 1447; x_wconf 85' lang='grc' dir='ltr'>Ρ·</span> <span class='ocrx_word' id='word_1_84' title='bbox 735 1405 850 1446; x_wconf 76' lang='lat'>443·</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 543 1478 1317 1535">
+     <span class='ocr_line' id='line_1_17' title="bbox 543 1478 1317 1535; baseline -0.004 -10"><span class='ocrx_word' id='word_1_85' title='bbox 543 1479 726 1535; x_wconf 70' lang='lat' dir='ltr'>Eiusdem</span> <span class='ocrx_word' id='word_1_86' title='bbox 761 1478 835 1521; x_wconf 88' lang='lat' dir='ltr'>IV.</span> <span class='ocrx_word' id='word_1_87' title='bbox 873 1478 1106 1524; x_wconf 60' lang='lat' dir='ltr'>obseruatio</span> <span class='ocrx_word' id='word_1_88' title='bbox 1141 1492 1181 1535; x_wconf 85' lang='lat' dir='ltr'>p.</span> <span class='ocrx_word' id='word_1_89' title='bbox 1210 1484 1317 1531; x_wconf 61' lang='lat'>446„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1602 2089 1831 2153">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 1602 2089 1831 2153">
+     <span class='ocr_line' id='line_1_18' title="bbox 1602 2089 1831 2153; baseline 0.013 -6"><span class='ocrx_word' id='word_1_90' title='bbox 1602 2089 1831 2153; x_wconf 90' lang='lat' dir='ltr'>CLAS-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

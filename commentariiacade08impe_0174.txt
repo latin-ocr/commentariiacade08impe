@@ -1,0 +1,35 @@
+³48 M ffl‘HODVS V N IVERSA LI S
+
+iudices terminorum vnitate crescentes assumsi, quas f. aiio
+numero crescentes sumsrffem‚ terminus generalis X forte
+trastabilior prodiisset. Denique fi terminus generalist
+ne quidem exhiberi potest, vt id in plurimis seriebus
+accidit, tum data formula summam exhibens ne vsurn
+quidem habere potest.
+
+ξ, 3. His difficultatibus quomodo occurrere possem
+diu sum meditatus ‚ tandemque obseruaui ex eodem prinv-
+cipio, cuius ope illam formulam inueniffem , alias quoque
+formulas elici poffe ad quasque series summandae ido-
+neas·‚ quibus exhibitis pro qrmuis oblata serie, ea for-
+mula fit eligenda, quae estet commodissima. Ex quouis?
+autem huiusmodi formularum genere conueniens visum
+est, vt binae formulae tradantur, quarum altera apta·
+sit ad {eries a termino primo ad datum vsque terminum»
+summamus, cuiusmodi erat sormuia iam ante a me
+communicata, attera vero ad series a dato termino ina
+infinitum vsque summandas. Quamuis enim haec po-
+sterior summario ex priore fluat, tamen expediet pro
+hoc casu peculiarem formulam praebuisse.
+
+§. 4. Incipiam igitur a seriebus ,7 quatum terminus
+generalis algebraice potest exhiberi, pro quibus etiam
+methodus in praecedente schediasmate data inseruit3 sed
+indices in progressione quacunque arithmetica progre*
+dientes assumam, quo formula inuenta latius pateat fite-
+piusque commodiorem calculum suppeditet. Sit igitur
+series ab init10 ad datum Vsque terminum summanda
+cum indicibus sequens:
+
+A
+

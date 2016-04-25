@@ -1,0 +1,36 @@
+72 DE CONSTRVCTIONE AEQWTIONVM.
+
+§— 14. Cum methodus, qua in reductione aequa*
+tionis constructae ad descriptionem trac'toriae sum vsus,
+maximam habeat Vtilitatem in resolutione problematum
+generalium ‚ quae ad methodum tangentium inuetiam re-
+feruntur, hic nonnulla huiusmodi problemata adiungam,
+corumque resoluendorum modum ostendam. Cuius rei
+ratio quo facilius percipiatur, ante exponendum est,
+quam variis modis natura cuiusque curuae poffit deter..
+minari, et quinam sint illi modi, ex quibus facillime
+diiudicari poffit, an curua proposita fit algebraica‚ an
+transcendens.
+
+ξ. 15. Vsu iam maxime receptum est, vt natura
+cuiusque curuae exprimatur aequatione inter duas coor-
+dinatus orthogonales abscissam scilicet et applicata-m,
+quippe ex qua quaelibet curuae pune‘ta facillime possunt
+inueniri. Ex huiusmodi aequatione sponte sequitur,
+vtrum curua fit algebtaica an secus3 nam fi aequatio
+est algebraica curua quoque talis censetur, fin vero ae-
+quatio fuerit transcendens, curua quoque transcendens ha-
+betur. Eadem veto conclusio deduci potest ex aequa-
+tione intet alias rectas lineas, quae curuae naturam ex·-
+primat, fi modo pofitio earum rest-arum non ab ipsa
+curua pendeat, secl vel ad datum punc‘tum vel datam
+lineam referatur.
+
+§. 16. At fi positio earum linearum, inter quas
+aequatio cumae naturam exprimit, fine curuae -ipfius
+cognitione definiri non potest, ex ea aequatione etiam
+singula curuae puncta immediate inueniri non possunt.
+Ex huiusmodi quoque aequatione, etfi est algebraica,
+
+tamen
+

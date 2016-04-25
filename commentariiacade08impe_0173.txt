@@ -1,0 +1,43 @@
+METHOESQJS)353ERSAL15· Ἣ
+SERIES SVMMANDI
+
+VLTERIVS PROMOTA.
+A V CT ORE
+
+. Leonh. Euler0.
+ς. 1.
+
+Ethodus vniuersalis series summandi, quam ex-
+eunte praeterito anno exposui , latissime quidem
+patet, cum ex solo termino generali seriei da-
+
+to exhibeat formulam iummae seriei aequalem3 interim
+tamen difficulter ad eiusmodi series, quarum termini ge-
+nerales algebraice exprimi non possunt, sed vel expo-
+nenti-,iles quantitates inuoluunt vel etiam transcendentes,
+
+accommodatur. Cum enim posito termino X ‚ cuius in·-
+
+,dex est x, sit summa seriei a primo termino vsque ad X
+
+aequalis [Χ ᾱ-τ-ὶμὲ-,ψ ,.,.ἶῗῐάῖ-,.,.ἒῖ.ἶζτπ -i— etc·
+
+fiicile apparet fi X {uitem huiumodi quantitates> ax in-
+uoluat, tam expreffionem sde quam differentialia
+ipsius X ad logarithmos deduci, vnde maxima oritur
+molesti-ti in summa quaesita saltem proxime assignanda.
+
+ 
+
+ 
+
+§. 2. Praeterea etfi X fuerit quantitas algebraica,
+tamen saepius eius differentium, quae ad summam ob-
+tinendam sumi debent, tam finnt complicata, vt non
+solum difficulter exhiberi queant, sed etiam seriem non
+multum conuergentem praebeant, vti id euenit in se-
+rie g-J-gf—i—-gff etc. circuli quadraturam continente.
+
+Cuius difficultatis ratio in eo potiffimum versatur, quod
+T 2 indi-
+
